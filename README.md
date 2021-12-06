@@ -2,7 +2,7 @@
 
 ## components
 - [saint_peters_gate](https://github.com/SharifAIChallenge/AIC21-infra-saint_peters_gate): AIC21-infra gateway
-- [compiler](https://github.com/SharifAIChallenge/AIC21-infra-compiler): a service that would compile contestants raw code ans store the generated binary in the shared storage
+- [compiler](https://github.com/SharifAIChallenge/AIC21-infra-compiler): a service that would compile contestants raw code and store the generated binary in the shared storage
 - [final_judgement](https://github.com/SharifAIChallenge/AIC21-infra-final_judgement): a service that would hold the matches between two contestants
 - [hermes](https://github.com/SharifAIChallenge/AIC21-infra-hermes): event broker: sends generated events (mainly by compiler and final_judgement) to [AIC21-backend](https://github.com/SharifAIChallenge/AIC21-backend)
 ## Architecture
